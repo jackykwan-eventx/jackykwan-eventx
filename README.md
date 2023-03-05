@@ -8,7 +8,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=jackykwan-eventx)
 ![GitHub User's stars](https://img.shields.io/github/stars/jackykwan-eventx)
-<h3 align="center">Check out the following repositories! :point_down:</h3>
 
 
 <!--
