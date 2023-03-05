@@ -6,7 +6,6 @@
   <img height="170em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackykwan-eventx&bg_color=0d1117&title_color=78dce8&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=jackykwan-eventx)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=jackykwan-eventx)
 ![GitHub User's stars](https://img.shields.io/github/stars/jackykwan-eventx)
 <h3 align="center">Check out the following repositories! :point_down:</h3>
